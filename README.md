@@ -1,7 +1,6 @@
 # 🎟️ DiscordHtmlTranscripts
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YOUR_GITHUB/DiscordHtmlTranscripts)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB/DiscordHtmlTranscripts)
+![GitHub last commit](https://img.shields.io/github/last-commit/C1tad31/DiscordHtmlTranscripts)
 ![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB/DiscordHtmlTranscripts)
 ![Nuget](https://img.shields.io/nuget/v/DiscordHtmlTranscripts?label=NuGet)
 

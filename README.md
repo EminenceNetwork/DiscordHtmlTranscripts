@@ -25,7 +25,7 @@ OR using **Visual Studio NuGet Manager**.
 ### **Manual Build**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB/DiscordHtmlTranscripts.git
+   git clone [https://github.com/EminenceNetwork/DiscordHtmlTranscripts.git](https://github.com/EminenceNetwork/DiscordHtmlTranscripts.git)
    ```
 2. Build the project:
    ```sh
@@ -150,8 +150,8 @@ This project is licensed under the **MIT License**.
 
 ## 📱 **Support & Contact**
 👤 Created by **Kendon**  
-📌 **GitHub:** [Your Repo](https://github.com/YOUR_GITHUB/DiscordHtmlTranscripts)  
-📌 **Discord:** `YourDiscordUsername#1234`  
+📌 **GitHub:** [Your Repo](https://github.com/EminenceNetwork/DiscordHtmlTranscripts)  
+📌 **Discord:** `c1tad31`  
 
 ---
 
